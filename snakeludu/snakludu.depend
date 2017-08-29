@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463252733 source:d:\programing\igraphics\snakludu\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+
+1463081564 d:\programing\igraphics\snakludu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
